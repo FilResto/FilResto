@@ -1,6 +1,6 @@
 ### Hi, I'm Filippo 👋
 
-AI Solution Engineer at [Alomana](https://alomana.com) in Milan. I design and build custom AI agents for enterprise clients, and I work directly with clients to turn their needs into working solutions.
+Forward Deployed Engineer at [Alomana](https://alomana.com) in Milan. I work side by side with enterprise clients to design, build and ship custom AI agents that solve their real problems.
 
 - 🤖 Currently building: AI agents, multi-agent orchestration, semantic search, LLM pipelines
 - 🎓 MSc in Computer Engineering (Cybersecurity) at Politecnico di Torino, Erasmus at Beijing Institute of Technology
